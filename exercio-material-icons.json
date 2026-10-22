@@ -1,0 +1,134 @@
+{
+  "play_arrow": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M8 5v14l11-7z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/av/play_arrow/materialicons/24px.svg"
+  },
+  "pause": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M6 19h4V5H6v14zm8-14v14h4V5h-4z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/av/pause/materialicons/24px.svg"
+  },
+  "skip_next": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/av/skip_next/materialicons/24px.svg"
+  },
+  "skip_previous": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M6 6h2v12H6zm3.5 6l8.5 6V6z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/av/skip_previous/materialicons/24px.svg"
+  },
+  "add": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/content/add/materialicons/24px.svg"
+  },
+  "remove": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M19 13H5v-2h14v2z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/content/remove/materialicons/24px.svg"
+  },
+  "arrow_back": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/navigation/arrow_back/materialicons/24px.svg"
+  },
+  "close": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/navigation/close/materialicons/24px.svg"
+  },
+  "more_vert": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/navigation/more_vert/materialicons/24px.svg"
+  },
+  "history": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M13 3c-4.97 0-9 4.03-9 9H1l3.89 3.89.07.14L9 12H6c0-3.87 3.13-7 7-7s7 3.13 7 7-3.13 7-7 7c-1.93 0-3.68-.79-4.94-2.06l-1.42 1.42C8.27 19.99 10.51 21 13 21c4.97 0 9-4.03 9-9s-4.03-9-9-9zm-1 5v5l4.28 2.54.72-1.21-3.5-2.08V8H12z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/history/materialicons/24px.svg"
+  },
+  "tune": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M3 17v2h6v-2H3zM3 5v2h10V5H3zm10 16v-2h8v-2h-8v-2h-2v6h2zM7 9v2H3v2h4v2h2V9H7zm14 4v-2H11v2h10zm-6-4h2V7h4V5h-4V3h-2v6z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/image/tune/materialicons/24px.svg"
+  },
+  "play_circle": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><g><rect fill=\"none\" height=\"24\" width=\"24\"/></g><g><path d=\"M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M9.5,16.5v-9l7,4.5L9.5,16.5z\"/></g></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/av/play_circle/materialicons/24px.svg"
+  },
+  "auto_awesome": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M19 9l1.25-2.75L23 5l-2.75-1.25L19 1l-1.25 2.75L15 5l2.75 1.25L19 9zm-7.5.5L9 4 6.5 9.5 1 12l5.5 2.5L9 20l2.5-5.5L17 12l-5.5-2.5zM19 15l-1.25 2.75L15 19l2.75 1.25L19 23l1.25-2.75L23 19l-2.75-1.25L19 15z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/image/auto_awesome/materialicons/24px.svg"
+  },
+  "check_circle_outline": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0V0zm0 0h24v24H0V0z\" fill=\"none\"/><path d=\"M16.59 7.58L10 14.17l-3.59-3.58L5 12l5 5 8-8zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/check_circle_outline/materialicons/24px.svg"
+  },
+  "check_circle": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/check_circle/materialicons/24px.svg"
+  },
+  "error_outline": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0V0z\" fill=\"none\"/><path d=\"M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/alert/error_outline/materialicons/24px.svg"
+  },
+  "cancel": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/navigation/cancel/materialicons/24px.svg"
+  },
+  "search": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/search/materialicons/24px.svg"
+  },
+  "expand_more": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/navigation/expand_more/materialicons/24px.svg"
+  },
+  "chevron_right": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/navigation/chevron_right/materialicons/24px.svg"
+  },
+  "delete_outline": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0V0z\" fill=\"none\"/><path d=\"M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM8 9h8v10H8V9zm7.5-5l-1-1h-5l-1 1H5v2h14V4z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/delete_outline/materialicons/24px.svg"
+  },
+  "edit": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/image/edit/materialicons/24px.svg"
+  },
+  "refresh": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/navigation/refresh/materialicons/24px.svg"
+  },
+  "music_note": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/image/music_note/materialicons/24px.svg"
+  },
+  "radio_button_checked": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/toggle/radio_button_checked/materialicons/24px.svg"
+  },
+  "radio_button_unchecked": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/toggle/radio_button_unchecked/materialicons/24px.svg"
+  },
+  "check_box": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/toggle/check_box/materialicons/24px.svg"
+  },
+  "check_box_outline_blank": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/toggle/check_box_outline_blank/materialicons/24px.svg"
+  },
+  "info_outline": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><g><path d=\"M0,0h24v24H0V0z\" fill=\"none\"/><path d=\"M11,7h2v2h-2V7z M11,11h2v6h-2V11z M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20 c-4.41,0-8-3.59-8-8s3.59-8,8-8s8,3.59,8,8S16.41,20,12,20z\"/></g></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/info_outline/materialicons/24px.svg"
+  },
+  "warning_amber": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" enable-background=\"new 0 0 24 24\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><g><rect fill=\"none\" height=\"24\" width=\"24\"/></g><g><g><g><path d=\"M12,5.99L19.53,19H4.47L12,5.99 M12,2L1,21h22L12,2L12,2z\"/><polygon points=\"13,16 11,16 11,18 13,18\"/><polygon points=\"13,10 11,10 11,15 13,15\"/></g></g></g></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/alert/warning_amber/materialicons/24px.svg"
+  },
+  "volume_up": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/av/volume_up/materialicons/24px.svg"
+  },
+  "stop": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M6 6h12v12H6z\"/></svg>",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/av/stop/materialicons/24px.svg"
+  },
+  "graphic_eq": {
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/av/graphic_eq/materialicons/24px.svg"
+  }
+}

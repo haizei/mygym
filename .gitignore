@@ -1,0 +1,52 @@
+# Operating System
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Node.js & Web build outputs
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & local secrets
+.env
+.env.*
+!.env.example
+data/
+
+# iOS / Xcode / Swift / CocoaPods
+**/DerivedData/
+**/Pods/
+**/.build/
+**/build/
+**/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# Capacitor web bundles & cached plugins
+**/App/App/public/
+**/App/Pods/
+**/App/build/
+**/capacitor-cordova-ios-plugins/
+
+# AI Agent & local workspace artifacts
+.claude/
+.agents/
+.superpowers/
+
+# Media raw caches (if any)
+media/img/
+media/gif/
+
+# CI / Test reports
+junit.xml
+coverage/
+**/coverage/
+**/bundle-size.json
+result
+result-*

@@ -1,0 +1,34 @@
+{
+  "pageId": "42:2",
+  "galleryId": "51:592",
+  "families": 44,
+  "componentSets": 39,
+  "mainAndVariantComponents": 165,
+  "instances": 386,
+  "overflows": [],
+  "oversized": [],
+  "textErrors": [],
+  "imageNodes": [],
+  "placeholders": [],
+  "touchAudit": {
+    "overflows": [],
+    "touch": [
+      {
+        "name": "Chip/Choice",
+        "heights": [
+          48,
+          48
+        ]
+      },
+      {
+        "name": "Input/Slider",
+        "heights": [
+          48,
+          48
+        ]
+      }
+    ],
+    "pageId": "42:2",
+    "galleryId": "51:592"
+  }
+}

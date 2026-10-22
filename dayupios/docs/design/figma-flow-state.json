@@ -1,0 +1,173 @@
+{
+  "runId": "opengym-flow-20261020",
+  "fileKey": "lvFX678GbPoE2IZPjYEybP",
+  "step": "complete",
+  "validationFile": "figma-flow-validation.json",
+  "componentPage": "29:3",
+  "screenPage": "29:5",
+  "registry": {
+    "icon/house": "94:2",
+    "icon/calendar": "94:5",
+    "icon/chart": "94:9",
+    "icon/magnifier": "94:12",
+    "icon/gear": "94:16",
+    "icon/dumbbell": "94:20",
+    "icon/barbell": "94:25",
+    "icon/scale": "94:28",
+    "icon/timer": "94:33",
+    "icon/clock": "94:37",
+    "icon/trophy": "94:41",
+    "icon/plus": "94:45",
+    "icon/minus": "94:48",
+    "icon/check": "94:51",
+    "icon/checkCircle": "94:54",
+    "icon/xmark": "94:58",
+    "icon/chevronRight": "94:61",
+    "icon/chevronLeft": "94:64",
+    "icon/chevronDown": "94:67",
+    "icon/play": "94:70",
+    "icon/history": "94:73",
+    "icon/warning": "94:78",
+    "icon/cloud": "94:83",
+    "icon/lock": "94:86",
+    "icon/shuffle": "94:90",
+    "icon/note": "94:94",
+    "icon/flag": "94:98",
+    "icon/share": "94:103",
+    "icon/more": "94:107",
+    "icon/target": "94:112",
+    "icon/qr": "94:117",
+    "icon/bolt": "94:123",
+    "button/primary/default/default": "94:126",
+    "button/primary/default/pressed": "94:128",
+    "button/primary/default/disabled": "94:130",
+    "button/primary/sm/default": "94:132",
+    "button/primary/sm/pressed": "94:134",
+    "button/primary/sm/disabled": "94:136",
+    "button/plain/default/default": "94:138",
+    "button/plain/sm/default": "94:140",
+    "button/tinted/default/default": "94:142",
+    "button/tinted/sm/default": "94:144",
+    "button/danger/default/default": "94:146",
+    "button/danger/sm/default": "94:148",
+    "icon-button/default": "94:150",
+    "icon-button/pressed": "94:154",
+    "icon-button/disabled": "94:158",
+    "check/off": "94:162",
+    "check/on": "94:166",
+    "chip/default": "94:170",
+    "chip/selected": "94:172",
+    "tag/default": "94:174",
+    "tag/accent": "94:176",
+    "text-field/empty": "94:178",
+    "text-field/filled": "94:180",
+    "text-field/focus": "94:182",
+    "search-field": "94:184",
+    "stepper/default": "94:193",
+    "stepper/invalid": "94:201",
+    "stepper/disabled": "94:209",
+    "grouped-row": "94:217",
+    "metric-card": "94:229",
+    "section-label": "94:233",
+    "device-chrome": "94:235",
+    "home-indicator": "94:238",
+    "routine-row": "95:35",
+    "exercise-row": "95:41",
+    "workout-row": "95:47",
+    "card": "95:53",
+    "header/main": "95:74",
+    "header/back": "95:83",
+    "header/workout": "95:96",
+    "tabbar/home": "95:109",
+    "tabbar/plan": "95:146",
+    "tabbar/start": "95:183",
+    "tabbar/stats": "95:220",
+    "tabbar/library": "95:257",
+    "segmented/schedule": "95:294",
+    "segmented/routines": "95:299",
+    "set-row/off": "95:304",
+    "set-row/on": "95:326",
+    "exercise-card": "95:348",
+    "rest-bar": "95:429",
+    "week-strip": "95:439",
+    "today-card/start": "95:471",
+    "today-card/resume": "95:483",
+    "chart-panel": "95:495",
+    "state-panel/empty": "95:503",
+    "state-panel/loading": "95:512",
+    "state-panel/error": "95:521",
+    "state-panel/welcome": "95:531",
+    "sync-banner": "95:541",
+    "workout-summary": "95:548",
+    "starter-card": "95:572",
+    "sheet-header": "95:579"
+  },
+  "sets": [
+    {
+      "id": "96:287",
+      "name": "opengym/button",
+      "variants": 12
+    },
+    {
+      "id": "96:288",
+      "name": "opengym/icon-button",
+      "variants": 3
+    },
+    {
+      "id": "96:289",
+      "name": "opengym/check",
+      "variants": 2
+    },
+    {
+      "id": "96:290",
+      "name": "opengym/chip",
+      "variants": 2
+    },
+    {
+      "id": "96:291",
+      "name": "opengym/tag",
+      "variants": 2
+    },
+    {
+      "id": "96:292",
+      "name": "opengym/text-field",
+      "variants": 3
+    },
+    {
+      "id": "96:293",
+      "name": "opengym/stepper",
+      "variants": 3
+    },
+    {
+      "id": "96:294",
+      "name": "opengym/header",
+      "variants": 3
+    },
+    {
+      "id": "96:295",
+      "name": "opengym/tabbar",
+      "variants": 5
+    },
+    {
+      "id": "96:296",
+      "name": "opengym/segmented",
+      "variants": 2
+    },
+    {
+      "id": "96:297",
+      "name": "opengym/set-row",
+      "variants": 2
+    },
+    {
+      "id": "96:298",
+      "name": "opengym/today-card",
+      "variants": 2
+    },
+    {
+      "id": "96:299",
+      "name": "opengym/state-panel",
+      "variants": 4
+    }
+  ],
+  "reviewId": "96:300"
+}

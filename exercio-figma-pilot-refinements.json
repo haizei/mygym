@@ -1,0 +1,233 @@
+{
+  "pageId": "42:2",
+  "createdNodeIds": [
+    "84:1098",
+    "84:1100",
+    "84:1101",
+    "84:1102"
+  ],
+  "mutatedNodeIds": [
+    "47:128",
+    "47:129",
+    "84:1098",
+    "48:1015",
+    "48:938",
+    "48:939",
+    "71:1148",
+    "47:15",
+    "47:11",
+    "47:20",
+    "47:16",
+    "47:25",
+    "47:21",
+    "47:30",
+    "47:26",
+    "47:35",
+    "47:31",
+    "47:40",
+    "47:36",
+    "47:45",
+    "47:41",
+    "47:50",
+    "47:46",
+    "47:55",
+    "47:51"
+  ],
+  "families": [],
+  "allFamilies": [
+    {
+      "name": "Button/Action",
+      "id": "47:56"
+    },
+    {
+      "name": "Button/Icon",
+      "id": "47:75"
+    },
+    {
+      "name": "Input/Field",
+      "id": "47:124"
+    },
+    {
+      "name": "Chip/Choice",
+      "id": "47:140"
+    },
+    {
+      "name": "Input/BpmStepper",
+      "id": "47:198"
+    },
+    {
+      "name": "Input/Slider",
+      "id": "47:210"
+    },
+    {
+      "name": "Input/SwitchRow",
+      "id": "47:238"
+    },
+    {
+      "name": "Input/ChoiceRow",
+      "id": "47:271"
+    },
+    {
+      "name": "Card/Surface",
+      "id": "47:281"
+    },
+    {
+      "name": "Nav/TopBar",
+      "id": "47:298"
+    },
+    {
+      "name": "Nav/Destination",
+      "id": "47:316"
+    },
+    {
+      "name": "Nav/BottomBar",
+      "id": "47:413"
+    },
+    {
+      "name": "Item/Exercise",
+      "id": "47:433"
+    },
+    {
+      "name": "Card/Routine",
+      "id": "47:437"
+    },
+    {
+      "name": "Card/Section",
+      "id": "47:480"
+    },
+    {
+      "name": "Item/Library",
+      "id": "47:532"
+    },
+    {
+      "name": "Status/Message",
+      "id": "47:573"
+    },
+    {
+      "name": "Status/Empty",
+      "id": "47:625"
+    },
+    {
+      "name": "Status/Snackbar",
+      "id": "47:635"
+    },
+    {
+      "name": "Overlay/Sheet",
+      "id": "47:660"
+    },
+    {
+      "name": "Overlay/Dialog",
+      "id": "47:716"
+    },
+    {
+      "name": "Practice/Progress",
+      "id": "48:970"
+    },
+    {
+      "name": "Practice/Timer",
+      "id": "48:1010"
+    },
+    {
+      "name": "Practice/SectionStrip",
+      "id": "48:1014"
+    },
+    {
+      "name": "Practice/FocusPanel",
+      "id": "48:1074"
+    },
+    {
+      "name": "Practice/RatingPanel",
+      "id": "48:1302"
+    },
+    {
+      "name": "Practice/Transport",
+      "id": "48:1358"
+    },
+    {
+      "name": "Practice/Metronome",
+      "id": "48:1522"
+    },
+    {
+      "name": "Practice/Insight",
+      "id": "48:1564"
+    },
+    {
+      "name": "DNA/QuestionHeader",
+      "id": "48:1568"
+    },
+    {
+      "name": "DNA/ChoiceTile",
+      "id": "48:1596"
+    },
+    {
+      "name": "DNA/ResultCard",
+      "id": "48:1655"
+    },
+    {
+      "name": "DNA/DraftSection",
+      "id": "48:1699"
+    },
+    {
+      "name": "History/SessionCard",
+      "id": "48:1703"
+    },
+    {
+      "name": "History/SummaryStats",
+      "id": "48:1738"
+    },
+    {
+      "name": "History/Attempt",
+      "id": "48:1762"
+    },
+    {
+      "name": "History/ReviewNote",
+      "id": "48:1790"
+    },
+    {
+      "name": "Settings/ThemeOption",
+      "id": "48:1811"
+    },
+    {
+      "name": "Settings/SoundOption",
+      "id": "48:1838"
+    },
+    {
+      "name": "Settings/Section",
+      "id": "48:1870"
+    },
+    {
+      "name": "Settings/DNAProfile",
+      "id": "48:1892"
+    },
+    {
+      "name": "Layout/StickyActions",
+      "id": "48:1935"
+    },
+    {
+      "name": "Layout/TotalBar",
+      "id": "48:1947"
+    },
+    {
+      "name": "Practice/Header",
+      "id": "71:1128"
+    },
+    {
+      "name": "Practice/SessionContext",
+      "id": "71:1148"
+    },
+    {
+      "name": "Practice/TransportButton",
+      "id": "71:1168"
+    }
+  ],
+  "iconCount": 32,
+  "removedNodeIds": [
+    "71:1149"
+  ],
+  "changes": [
+    "selected chip tint via editable layer opacity",
+    "session progress matches elapsed vs total duration",
+    "timer progress matches 02:18 of 5 minutes",
+    "centered action icon and label"
+  ]
+}

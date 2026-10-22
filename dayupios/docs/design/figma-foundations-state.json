@@ -1,0 +1,776 @@
+{
+  "runId": "opengym-foundations-20261020",
+  "scope": "tokens-foundations",
+  "step": "complete",
+  "fileKey": "lvFX678GbPoE2IZPjYEybP",
+  "pageId": "29:2",
+  "entities": {
+    "createdNodeIds": [],
+    "mutatedNodeIds": [],
+    "createdAssetIds": [
+      "VariableCollectionId:64:2",
+      "VariableCollectionId:64:3",
+      "VariableID:64:4",
+      "VariableID:64:5",
+      "VariableID:64:6",
+      "VariableID:64:7",
+      "VariableID:64:8",
+      "VariableID:64:9",
+      "VariableID:64:10",
+      "VariableID:64:11",
+      "VariableID:64:12",
+      "VariableID:64:13",
+      "VariableID:64:14",
+      "VariableID:64:15",
+      "VariableID:64:16",
+      "VariableID:64:17",
+      "VariableID:64:18",
+      "VariableID:64:19",
+      "VariableID:64:20",
+      "VariableID:64:21",
+      "VariableID:64:22",
+      "VariableID:64:23",
+      "VariableID:64:24",
+      "VariableID:64:25",
+      "VariableID:64:26",
+      "VariableID:64:27",
+      "VariableID:64:28",
+      "VariableID:64:29",
+      "VariableID:64:30",
+      "VariableID:64:31",
+      "VariableID:64:32",
+      "VariableID:64:33",
+      "VariableID:64:34",
+      "VariableID:64:35",
+      "VariableID:64:36",
+      "VariableID:64:37",
+      "VariableID:64:38",
+      "VariableID:64:39",
+      "VariableID:64:40",
+      "VariableID:64:41",
+      "VariableID:64:42",
+      "VariableID:64:43",
+      "VariableID:64:44",
+      "VariableID:64:45",
+      "VariableID:64:46",
+      "VariableID:64:47",
+      "VariableID:64:48",
+      "VariableID:64:49",
+      "VariableID:64:50",
+      "VariableID:64:51",
+      "VariableID:64:52",
+      "VariableID:64:53",
+      "VariableID:64:54",
+      "VariableID:64:55",
+      "VariableID:64:56",
+      "VariableID:64:57",
+      "VariableID:64:58",
+      "VariableID:64:59",
+      "VariableID:64:60",
+      "VariableID:64:61",
+      "VariableID:64:62",
+      "VariableID:64:63",
+      "VariableID:64:64",
+      "VariableID:64:65",
+      "VariableID:64:66",
+      "VariableID:64:67",
+      "VariableID:64:68",
+      "VariableID:64:69",
+      "VariableID:64:70",
+      "VariableID:64:71",
+      "VariableID:64:72",
+      "VariableID:64:73",
+      "VariableID:64:74",
+      "VariableID:64:75",
+      "VariableID:64:76",
+      "VariableID:64:77",
+      "VariableID:64:78",
+      "S:76d750fe51e45071079e1153c57906d24f94c26f,",
+      "S:9679fe1a0be24fcdb5acef5b723669e6ae651a2e,",
+      "S:a20762c609d8b97576dcca6b44a49b850761680a,",
+      "S:a66b56be4a71830018efcfa4c7f3015807cd6217,",
+      "S:62a031fc6cda60c35d6cfd8da04bfa9b77b3af67,",
+      "S:26cf6fc9ff3831148e723626fa4c74062e80d832,",
+      "S:37cd07e23722dad598d69bd88fb02838adfa9265,",
+      "S:ebcd1a428732c73a0ca84e024c283efca5f1427d,",
+      "S:a707811a3d61f0f282020c8b55a2ce1f579b0cd3,",
+      "S:50675844bbbaf281d88c68f72f3091ab806343dc,",
+      "S:a10bf95e218a87d114b4ce079ded2c3877ff9965,",
+      "S:db0477992a2d6d17090b3bc7c856d36ad0a8c988,",
+      "S:4422f2cbfdb708692f499edc6ab93f3ddb85a270,",
+      "S:e8baee828b5b720b3829d1d4892b998a17ef1993,",
+      "S:a17a72b82bf2b7ba451837d0deec8a8d9f83559a,",
+      "S:003145ea4bbe3996f0192445e09afca0fb5396c0,",
+      "S:ea0828fa4107ec9f935196583ef4578f60e40a10,",
+      "S:eb8ce0808f058a8a5ff2fdd133f7b3335b2c89dd,",
+      "S:243bda9e7a0bcb6e358dde87b1f88718b8b3add6,",
+      "S:68d8ba2dcd2649bc4d665e47a4f12838b8468b41,",
+      "S:483ca93e694ae70096cc0ffe7303ca2c5ea82cc6,"
+    ],
+    "updatedAssetIds": [],
+    "collections": [
+      {
+        "id": "VariableCollectionId:64:2",
+        "name": "opengym/theme",
+        "modes": [
+          {
+            "name": "light",
+            "modeId": "64:0"
+          },
+          {
+            "name": "dark",
+            "modeId": "64:1"
+          }
+        ]
+      },
+      {
+        "id": "VariableCollectionId:64:3",
+        "name": "opengym/foundation",
+        "modes": [
+          {
+            "name": "default",
+            "modeId": "64:2"
+          }
+        ]
+      }
+    ],
+    "colorVariables": [
+      {
+        "name": "color/bg/default",
+        "lightId": "VariableID:64:4",
+        "darkId": "VariableID:64:4"
+      },
+      {
+        "name": "color/bg/elevated",
+        "lightId": "VariableID:64:5",
+        "darkId": "VariableID:64:5"
+      },
+      {
+        "name": "color/surface/default",
+        "lightId": "VariableID:64:6",
+        "darkId": "VariableID:64:6"
+      },
+      {
+        "name": "color/surface/secondary",
+        "lightId": "VariableID:64:7",
+        "darkId": "VariableID:64:7"
+      },
+      {
+        "name": "color/surface/tertiary",
+        "lightId": "VariableID:64:8",
+        "darkId": "VariableID:64:8"
+      },
+      {
+        "name": "color/text/primary",
+        "lightId": "VariableID:64:9",
+        "darkId": "VariableID:64:9"
+      },
+      {
+        "name": "color/text/secondary",
+        "lightId": "VariableID:64:10",
+        "darkId": "VariableID:64:10"
+      },
+      {
+        "name": "color/text/tertiary",
+        "lightId": "VariableID:64:11",
+        "darkId": "VariableID:64:11"
+      },
+      {
+        "name": "color/text/quaternary",
+        "lightId": "VariableID:64:12",
+        "darkId": "VariableID:64:12"
+      },
+      {
+        "name": "color/border/default",
+        "lightId": "VariableID:64:13",
+        "darkId": "VariableID:64:13"
+      },
+      {
+        "name": "color/border/overlay",
+        "lightId": "VariableID:64:14",
+        "darkId": "VariableID:64:14"
+      },
+      {
+        "name": "color/palette/blue",
+        "lightId": "VariableID:64:15",
+        "darkId": "VariableID:64:15"
+      },
+      {
+        "name": "color/palette/green",
+        "lightId": "VariableID:64:16",
+        "darkId": "VariableID:64:16"
+      },
+      {
+        "name": "color/palette/red",
+        "lightId": "VariableID:64:17",
+        "darkId": "VariableID:64:17"
+      },
+      {
+        "name": "color/palette/orange",
+        "lightId": "VariableID:64:18",
+        "darkId": "VariableID:64:18"
+      },
+      {
+        "name": "color/palette/yellow",
+        "lightId": "VariableID:64:19",
+        "darkId": "VariableID:64:19"
+      },
+      {
+        "name": "color/palette/teal",
+        "lightId": "VariableID:64:20",
+        "darkId": "VariableID:64:20"
+      },
+      {
+        "name": "color/palette/indigo",
+        "lightId": "VariableID:64:21",
+        "darkId": "VariableID:64:21"
+      },
+      {
+        "name": "color/palette/pink",
+        "lightId": "VariableID:64:22",
+        "darkId": "VariableID:64:22"
+      },
+      {
+        "name": "color/palette/purple",
+        "lightId": "VariableID:64:23",
+        "darkId": "VariableID:64:23"
+      },
+      {
+        "name": "color/palette/mint",
+        "lightId": "VariableID:64:24",
+        "darkId": "VariableID:64:24"
+      },
+      {
+        "name": "color/palette/brown",
+        "lightId": "VariableID:64:25",
+        "darkId": "VariableID:64:25"
+      },
+      {
+        "name": "color/palette/grey",
+        "lightId": "VariableID:64:26",
+        "darkId": "VariableID:64:26"
+      },
+      {
+        "name": "color/brand/primary",
+        "lightId": "VariableID:64:27",
+        "darkId": "VariableID:64:27"
+      },
+      {
+        "name": "color/brand/pressed",
+        "lightId": "VariableID:64:28",
+        "darkId": "VariableID:64:28"
+      },
+      {
+        "name": "color/brand/on-primary",
+        "lightId": "VariableID:64:29",
+        "darkId": "VariableID:64:29"
+      },
+      {
+        "name": "color/brand/soft",
+        "lightId": "VariableID:64:30",
+        "darkId": "VariableID:64:30"
+      },
+      {
+        "name": "color/brand/outline",
+        "lightId": "VariableID:64:31",
+        "darkId": "VariableID:64:31"
+      },
+      {
+        "name": "color/status/success",
+        "lightId": "VariableID:64:32",
+        "darkId": "VariableID:64:32"
+      },
+      {
+        "name": "color/status/warning",
+        "lightId": "VariableID:64:33",
+        "darkId": "VariableID:64:33"
+      },
+      {
+        "name": "color/status/danger",
+        "lightId": "VariableID:64:34",
+        "darkId": "VariableID:64:34"
+      },
+      {
+        "name": "color/status/info",
+        "lightId": "VariableID:64:35",
+        "darkId": "VariableID:64:35"
+      },
+      {
+        "name": "color/overlay/scrim",
+        "lightId": "VariableID:64:36",
+        "darkId": "VariableID:64:36"
+      },
+      {
+        "name": "color/component/sheet/background",
+        "lightId": "VariableID:64:37",
+        "darkId": "VariableID:64:37"
+      },
+      {
+        "name": "color/component/segmented/track",
+        "lightId": "VariableID:64:38",
+        "darkId": "VariableID:64:38"
+      },
+      {
+        "name": "color/component/tabbar/background",
+        "lightId": "VariableID:64:39",
+        "darkId": "VariableID:64:39"
+      }
+    ],
+    "numberVariables": [
+      {
+        "name": "spacing/2",
+        "id": "VariableID:64:40"
+      },
+      {
+        "name": "spacing/4",
+        "id": "VariableID:64:41"
+      },
+      {
+        "name": "spacing/6",
+        "id": "VariableID:64:42"
+      },
+      {
+        "name": "spacing/7",
+        "id": "VariableID:64:43"
+      },
+      {
+        "name": "spacing/8",
+        "id": "VariableID:64:44"
+      },
+      {
+        "name": "spacing/10",
+        "id": "VariableID:64:45"
+      },
+      {
+        "name": "spacing/11",
+        "id": "VariableID:64:46"
+      },
+      {
+        "name": "spacing/12",
+        "id": "VariableID:64:47"
+      },
+      {
+        "name": "spacing/13",
+        "id": "VariableID:64:48"
+      },
+      {
+        "name": "spacing/14",
+        "id": "VariableID:64:49"
+      },
+      {
+        "name": "spacing/15",
+        "id": "VariableID:64:50"
+      },
+      {
+        "name": "spacing/16",
+        "id": "VariableID:64:51"
+      },
+      {
+        "name": "spacing/18",
+        "id": "VariableID:64:52"
+      },
+      {
+        "name": "spacing/20",
+        "id": "VariableID:64:53"
+      },
+      {
+        "name": "spacing/22",
+        "id": "VariableID:64:54"
+      },
+      {
+        "name": "spacing/24",
+        "id": "VariableID:64:55"
+      },
+      {
+        "name": "spacing/page",
+        "id": "VariableID:64:56"
+      },
+      {
+        "name": "spacing/card",
+        "id": "VariableID:64:57"
+      },
+      {
+        "name": "spacing/row-gap",
+        "id": "VariableID:64:58"
+      },
+      {
+        "name": "radius/6",
+        "id": "VariableID:64:59"
+      },
+      {
+        "name": "radius/7",
+        "id": "VariableID:64:60"
+      },
+      {
+        "name": "radius/8",
+        "id": "VariableID:64:61"
+      },
+      {
+        "name": "radius/9",
+        "id": "VariableID:64:62"
+      },
+      {
+        "name": "radius/10",
+        "id": "VariableID:64:63"
+      },
+      {
+        "name": "radius/12",
+        "id": "VariableID:64:64"
+      },
+      {
+        "name": "radius/14",
+        "id": "VariableID:64:65"
+      },
+      {
+        "name": "radius/16",
+        "id": "VariableID:64:66"
+      },
+      {
+        "name": "radius/22",
+        "id": "VariableID:64:67"
+      },
+      {
+        "name": "radius/card",
+        "id": "VariableID:64:68"
+      },
+      {
+        "name": "radius/control",
+        "id": "VariableID:64:69"
+      },
+      {
+        "name": "radius/sheet",
+        "id": "VariableID:64:70"
+      },
+      {
+        "name": "radius/pill",
+        "id": "VariableID:64:71"
+      },
+      {
+        "name": "border/hairline",
+        "id": "VariableID:64:72"
+      },
+      {
+        "name": "border/icon",
+        "id": "VariableID:64:73"
+      },
+      {
+        "name": "border/focus",
+        "id": "VariableID:64:74"
+      },
+      {
+        "name": "opacity/disabled-control",
+        "id": "VariableID:64:75"
+      },
+      {
+        "name": "opacity/disabled-switch",
+        "id": "VariableID:64:76"
+      },
+      {
+        "name": "motion/fast",
+        "id": "VariableID:64:77"
+      },
+      {
+        "name": "motion/medium",
+        "id": "VariableID:64:78"
+      }
+    ],
+    "textStyles": [
+      {
+        "id": "S:76d750fe51e45071079e1153c57906d24f94c26f,",
+        "name": "typography/title/large",
+        "size": 34,
+        "weight": 700,
+        "lineHeight": 106,
+        "letterSpacing": -2.8
+      },
+      {
+        "id": "S:9679fe1a0be24fcdb5acef5b723669e6ae651a2e,",
+        "name": "typography/title/mobile",
+        "size": 30,
+        "weight": 700,
+        "lineHeight": 106,
+        "letterSpacing": -2.8
+      },
+      {
+        "id": "S:a20762c609d8b97576dcca6b44a49b850761680a,",
+        "name": "typography/metric/large",
+        "size": 30,
+        "weight": 600,
+        "lineHeight": 110,
+        "letterSpacing": -2.6
+      },
+      {
+        "id": "S:a66b56be4a71830018efcfa4c7f3015807cd6217,",
+        "name": "typography/title/sheet",
+        "size": 20,
+        "weight": 600,
+        "lineHeight": 129,
+        "letterSpacing": -2.1
+      },
+      {
+        "id": "S:62a031fc6cda60c35d6cfd8da04bfa9b77b3af67,",
+        "name": "typography/body/default",
+        "size": 17,
+        "weight": 400,
+        "lineHeight": 129,
+        "letterSpacing": -1
+      },
+      {
+        "id": "S:26cf6fc9ff3831148e723626fa4c74062e80d832,",
+        "name": "typography/body/row",
+        "size": 17,
+        "weight": 400,
+        "lineHeight": 125,
+        "letterSpacing": -1.2
+      },
+      {
+        "id": "S:37cd07e23722dad598d69bd88fb02838adfa9265,",
+        "name": "typography/button/default",
+        "size": 17,
+        "weight": 600,
+        "lineHeight": 129,
+        "letterSpacing": -1.2
+      },
+      {
+        "id": "S:ebcd1a428732c73a0ca84e024c283efca5f1427d,",
+        "name": "typography/body/list",
+        "size": 16,
+        "weight": 400,
+        "lineHeight": 125,
+        "letterSpacing": -0.9
+      },
+      {
+        "id": "S:a707811a3d61f0f282020c8b55a2ce1f579b0cd3,",
+        "name": "typography/body/subtitle",
+        "size": 15,
+        "weight": 400,
+        "lineHeight": 129,
+        "letterSpacing": -0.6
+      },
+      {
+        "id": "S:50675844bbbaf281d88c68f72f3091ab806343dc,",
+        "name": "typography/button/small",
+        "size": 15,
+        "weight": 600,
+        "lineHeight": 129,
+        "letterSpacing": -1.2
+      },
+      {
+        "id": "S:a10bf95e218a87d114b4ce079ded2c3877ff9965,",
+        "name": "typography/chip/default",
+        "size": 14,
+        "weight": 400,
+        "lineHeight": 129,
+        "letterSpacing": -0.6
+      },
+      {
+        "id": "S:db0477992a2d6d17090b3bc7c856d36ad0a8c988,",
+        "name": "typography/segmented/selected",
+        "size": 14,
+        "weight": 500,
+        "lineHeight": 129,
+        "letterSpacing": -0.6
+      },
+      {
+        "id": "S:4422f2cbfdb708692f499edc6ab93f3ddb85a270,",
+        "name": "typography/caption/default",
+        "size": 13,
+        "weight": 400,
+        "lineHeight": 138,
+        "letterSpacing": -1
+      },
+      {
+        "id": "S:e8baee828b5b720b3829d1d4892b998a17ef1993,",
+        "name": "typography/caption/row",
+        "size": 13,
+        "weight": 400,
+        "lineHeight": 130,
+        "letterSpacing": -1
+      },
+      {
+        "id": "S:a17a72b82bf2b7ba451837d0deec8a8d9f83559a,",
+        "name": "typography/section/title",
+        "size": 13,
+        "weight": 400,
+        "lineHeight": 129,
+        "letterSpacing": -0.4
+      },
+      {
+        "id": "S:003145ea4bbe3996f0192445e09afca0fb5396c0,",
+        "name": "typography/tag/default",
+        "size": 12,
+        "weight": 500,
+        "lineHeight": 129,
+        "letterSpacing": -1
+      },
+      {
+        "id": "S:ea0828fa4107ec9f935196583ef4578f60e40a10,",
+        "name": "typography/tab/label",
+        "size": 10,
+        "weight": 500,
+        "lineHeight": 129,
+        "letterSpacing": 0.5
+      }
+    ],
+    "effectStyles": [
+      {
+        "id": "S:eb8ce0808f058a8a5ff2fdd133f7b3335b2c89dd,",
+        "name": "effect/switch/knob",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "boundVariables": {},
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.15000000596046448
+            },
+            "offset": {
+              "x": 0,
+              "y": 3
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": true
+          },
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 1,
+            "boundVariables": {},
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.1599999964237213
+            },
+            "offset": {
+              "x": 0,
+              "y": 1
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": true
+          }
+        ]
+      },
+      {
+        "id": "S:243bda9e7a0bcb6e358dde87b1f88718b8b3add6,",
+        "name": "effect/segmented/selection",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "boundVariables": {},
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.11999999731779099
+            },
+            "offset": {
+              "x": 0,
+              "y": 3
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": true
+          },
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 1,
+            "boundVariables": {},
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.05999999865889549
+            },
+            "offset": {
+              "x": 0,
+              "y": 1
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": true
+          }
+        ]
+      },
+      {
+        "id": "S:68d8ba2dcd2649bc4d665e47a4f12838b8468b41,",
+        "name": "effect/slider/knob",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 10,
+            "boundVariables": {},
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.2199999988079071
+            },
+            "offset": {
+              "x": 0,
+              "y": 4
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": true
+          },
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 2,
+            "boundVariables": {},
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.1599999964237213
+            },
+            "offset": {
+              "x": 0,
+              "y": 1
+            },
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": true
+          }
+        ]
+      },
+      {
+        "id": "S:483ca93e694ae70096cc0ffe7303ca2c5ea82cc6,",
+        "name": "effect/dialog/center",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 60,
+            "boundVariables": {},
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.5
+            },
+            "offset": {
+              "x": 0,
+              "y": 20
+            },
+            "spread": -12,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": true
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  }
+}
